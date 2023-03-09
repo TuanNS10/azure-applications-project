@@ -8,7 +8,6 @@
 - *Justify your choice*
 
 ### Comparison between Virtual Machines and App Service
-`Account Using`: odl_user_227154@udacityhol.onmicrosoft.com
 
 #### Price
 `Virtual Machine` is more expensive than `App Service` because it is still running, consuming resources, like CPU and memory, even though when the application is not in use.
